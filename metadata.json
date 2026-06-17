@@ -1,0 +1,6 @@
+{
+  "name": "Health Assistant",
+  "description": "An interactive AI Symptom Checker assistant that helps you map symptoms, suggestions, and self-care advice based on a verified medical knowledge base.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
