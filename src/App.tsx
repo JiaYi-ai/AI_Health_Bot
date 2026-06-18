@@ -725,9 +725,7 @@ export default function App() {
                                 </p>
                               </div>
 
-                              <p className="text-[11px] text-[#8a867c] mt-2 italic">
-                                *Note: This information is loaded directly from the verified symptoms.csv health database.
-                              </p>
+
                             </div>
                           )}
                         </div>
